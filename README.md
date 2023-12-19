@@ -19,3 +19,10 @@ RaspberryPi e as poucas que estavam funcionando não eram suficientes para atend
 o equipamento de outro grupo que conseguiu fazer a câmera funcionar. A prática consiste em implementar o algoritmo de machine learning Haar
 Cascade para detectar faces de pessoas na imagem obtida através da câmera da RaspberryPi. Uma vez detectada a face, o script salva a imagem
 da face reconhecida em um diretório especificado. O código pode ser visto no arquivo "camera.py" e as imagens são exibidas abaixo.
+
+
+<img src="/imgs/circuit.jpg">
+
+<img src="/imgs/controle_acesso.jpg">
+
+<img src="/imgs/camera.jpg">
