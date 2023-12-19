@@ -1,0 +1,23 @@
+commit 35721b95ced3714614275e115f3e43d6d26ac52a
+Author: vmdelmondes <vitormdelmondes@outlook.com>
+Date:   Tue Dec 19 00:41:37 2023 -0300
+
+    Adição dos scripts python e das imagens
+
+commit 929eac2eecf950feee38ce420c5f33860a0cdea0
+Author: vmdelmondes <145056345+vmdelmondes@users.noreply.github.com>
+Date:   Tue Dec 19 00:17:08 2023 -0300
+
+    Update README.md
+
+commit f733fa7fb581fe6a5c1050c2aeb36963c4428db2
+Author: vmdelmondes <145056345+vmdelmondes@users.noreply.github.com>
+Date:   Mon Dec 4 11:02:20 2023 -0300
+
+    Create .gitignore
+
+commit fc79b611877190cc843e549b3608d72cbb0e35cf
+Author: vmdelmondes <145056345+vmdelmondes@users.noreply.github.com>
+Date:   Mon Dec 4 11:01:02 2023 -0300
+
+    Initial commit
